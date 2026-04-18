@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+$font-family-sans-serif: "Inter", sans-serif;
+
+/*-- scss:rules --*/
+
+.flow {
+  background-image: url("../../../../../images/flow.jpg");
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  font-weight: 900;
+  animation: animate 20s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
