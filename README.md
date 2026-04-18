@@ -1,6 +1,6 @@
 # The Invisible Work of Data Science Projects
 
-![thumbnail.png]
+![](thumbnail.png)
 
 ## Details
 
