@@ -5,7 +5,7 @@
 ## Details
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>🐺 [Northern Illinois University College of Business](https://www.meetup.com/rladies-rome/events/302078218/)</li>
+  <li>🐺 <a href="https://www.cob.niu.edu/academics/omis/index.shtml">Northern Illinois University College of Business</a></li>
   <li>📆 16 April 2026 // 3:00 PM CT</li>
   <li>📍️ DeKalb, IL</li>
 </ul>
